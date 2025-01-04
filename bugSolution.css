@@ -1,0 +1,1 @@
+Ensure the parent container of the element using `calc()` has a defined width (either explicitly set or inherited from a parent).  If necessary, set a width on the parent container to provide the necessary context for the calculation.  Also double check the syntax within calc() for any missing spaces, incorrect operators, or incorrect units.
